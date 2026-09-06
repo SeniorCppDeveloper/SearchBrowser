@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- Иконки -->
+        <file alias="app.ico">resources/icons/app.ico</file>
+        <file alias="search.png">resources/icons/search.png</file>
+        <file alias="logo.png">resources/icons/logo.png</file>
+        
+        <!-- Стили -->
+        <file alias="style.qss">resources/styles/style.qss</file>
+        
+        <!-- HTML шаблоны -->
+        <file alias="error.html">resources/html/error.html</file>
+        <file alias="results.html">resources/html/results.html</file>
+    </qresource>
+</RCC>
